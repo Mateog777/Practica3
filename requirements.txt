@@ -1,0 +1,9 @@
+google-generativeai
+langchain
+langchain-google-genai
+langchain-core
+langchain-community
+torch
+torchvision
+pillow
+python-dotenv
